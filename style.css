@@ -213,7 +213,7 @@ body {
     .rodape__texto {
         text-align: center;
         margin: 3%;
-        max-width: 100%;
+        width: 80vw;
         margin-bottom: 5%;
     }
 }
